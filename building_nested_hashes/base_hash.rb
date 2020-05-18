@@ -1,3 +1,3 @@
-bash_hash = {
+base_hash = {
   railroads: { }
 }
