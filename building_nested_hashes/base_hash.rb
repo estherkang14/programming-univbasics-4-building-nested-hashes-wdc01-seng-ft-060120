@@ -1,1 +1,3 @@
-bash_hash = {railroads: []}
+bash_hash = {
+  railroads: { }
+}
